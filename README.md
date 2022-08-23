@@ -2,7 +2,7 @@
  <a href="https://www.linkedin.com/in/benjamin-reynes/">
   <img alt="linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-### Hi 👋, i'm Benjamin Reynes and I work at  
+Hi 👋, i'm Benjamin Reynes and I work at  
  <a href="https://morio.co">
   Morio
  </a>
